@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pe1d5-gu3012557": {
+      "hosting": {
+        "app": [
+          "pe1d5-gu3012557"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pe1d5-gu3012557"
+  }
+}
